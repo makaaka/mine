@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "roadsignpost",
+  "private_key_id": "b2c17aec850bec0b392b86ab504a9062c2ca6935",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNKYU40p7db6Dj\nx/yguv3bsQkLT4sgcWew0ZLyf7nKIfrWc9BRdKDk0qnGKrzLE0V1361xEk6ZHb1m\nWOg0O6xeJ/hEySN6vYBg4jymMna9KhY9xYvxdvc1b2a6ta8b7eyYnS800jryXMtb\nV1CWxAxaKjR/kokF58+iT+51y8lK3Zdm1qOB9WfNdaBYaPR/s8IyUIVAj3d3dsXa\nEXzuRwijuiFEDYReo54DLBE9WDXzWeIyw99cAVaZVCQ897JofFcUXx0XlIRN+fuD\nuMQWfGTdXcZSrzkmlW2Lf7RrXVIw2gaWxAIPCIIjR+bdxkRo6U/q2bKW8APJZ5iI\nyUOt9Bq9AgMBAAECggEAE+L/UHXFqUMGasicE8W8KUTb1hLW8hNf7QZdWhn54drf\nJHKs7KjOWOY/wjn3nnFg1f4UyGrwlTweGGraja9BdYNSg9hFTg+f5CZDLpPJ7BTf\njMTFlhcxNP80fQXG/VuLuyVbxuh+IvJFOOFIanEEn3g2LKnHcYRKmV6C5Of4e/od\nunwGYqevXPozvKcfrHGisvNMnB1FsH0DcT+uB/PEHIc2MN93eFim7yaEPUbtXh5E\nUF1Mz2pyXvE3HYnVJCRUxXz6KeGTGZj2Exsl+W4KaLox6OFltTkRJIbWdVampj89\n0nxWQSqOoU3hpFPNaU1XTY8sw0LND3Tol+2dU32r6QKBgQDDk6PE+77zbEIeYWfU\nMwRjbHA7hF6Vf944veqlQRD4r8i4tQzg9LSuNMEYdBXoqx21+T7Jc1NBm/Yquuq7\n0gtIC1kPhpW75ihigJh9NxZbdm1IoQCg5gvZogaF4gu6yOIpviDWUXTVGmTnLSot\nmJQP56UYV5hj7Wc3pI+V8rFDpQKBgQC4xi48RcIqW2Bri1tQdcvSS/V4Vx74JFCG\nOe86Oty1hNEJniFeMM37Xf+g2PnN/AeP2jtHAhP+M20ZLC4s9/zCNSppyqXR7ptW\nXhmyQG/kLz05BKeVjWIXPXsfhGMbyVJz+15S9DK2Q8zW0+pH2MajZaxHYswCFyGI\nOGuxGPHvOQKBgAP6W8lk6XRgDlQ53PfG9d7j1MCRJ69Yw3dZ/YzQ7vxv7uA65oEo\n2Qf2ELtjmRJ7cIZEBI/qZZYfCvnBhYa+dfZILM6RCTiiLM4cGX3qgezoUr64b5/W\nLgWGMyXD/EMXVOpOcLKLQ5oWCFlfZM06nkBYkNYW6gWWTZQnJ7iAEDT1AoGAbVAx\nwk6y1ERDAtzrJOrLrpppmsxP8hXp3b8gnJ5+PJVa5gm7S/Irqm6t8QbsosRb5OsC\n7rt4AIeEH8RXfRspWewCL5xIBa7YD3yUTzR3/dNEsRrj2kJOqdkhoj+8MpAkS6GG\n6CS4a8Qox1+P1vmUas6X4ZO9he8RU3mtnJRZbWECgYA50YlGFbyhxYMPBXF0cuF+\nIIAEud9CwBQRmAESiwTCrAjSFSZqZe8dnzxD0kjNijsyFNlRxUDibFFvpR54VbxO\nGjI//vKAYfbXr7G2TN/jlU/AjFgqWBYYEuuQXv85hh7PRyjdKbSUH6D3lnSqpOvE\neXc5N7t14pVVSVP2b5qbWQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "makaaka@roadsignpost.iam.gserviceaccount.com",
+  "client_id": "109957213089320816353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/makaaka%40roadsignpost.iam.gserviceaccount.com"
+}
