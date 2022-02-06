@@ -15,6 +15,7 @@ cond = wks.col_values(2)
 lat = wks.col_values(3)
 lon = wks.col_values(4)
 
+
 @app.route('/')
 def base():
     # this is base map
@@ -52,5 +53,6 @@ def open_street_map():
 
     return map._repr_html_()
 
+
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False, host='0.0.0.0')
